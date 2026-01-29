@@ -1,13 +1,18 @@
-# Mein Portfolio
+# My Portfolio
 
 > Manuel Staufer
 * Age : 27
-* Location : Vöcklabruck in Upperaustria
+* Location : Upperaustria
 * Phone : +43 660 7739792
 * Email : manuel.staufervb@gmail.com
 
-## Übersicht
+# Overview
 
-> [About Me](about/README.md)
+## [About Me](about/README.md)
 
-> [Projects](projects/README.md)
+## [Projects](projects/README.md)
+
+## [Examples](examples/README.md)
+
+## [Technologies](technologies/README.md)
+
