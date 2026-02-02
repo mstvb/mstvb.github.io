@@ -1,12 +1,13 @@
-# Über mich
+# About Me
 
-Ich bin aus Oberösterreich habe ein Jahr in Wien gelebt durch mein Studium in Musikproduktion an der Deutsche Pop Wien.
-Habe Einzelhandelskaufmann gelernt danach IT-Specialist und mehrere Berufe wie Ride Operator oder Lagerarbeiter oder auch Mitarbeiter in der Grünpflege ausgeübt.
+## My learned Jobs
 
-Abgesehen von meinen beruflichen Tätigkeiten bin ich an mehreren Themen interesssiert.
+- [x] IT Specialist
+- [x] Retail Salesman 
+- [x] Music Production Student
 
-- Musik
-- Freizeitparks bzw.. auch die Technik dahinter und nicht nur der Fahrspaß
-- Entwicklung in der IT (KI, neue Programmiersprachen, neue Tools)
+## Hobbys
 
- 
+- Visit Amusement Parks
+- Music Production
+- IT [ Programming | Linux ]
