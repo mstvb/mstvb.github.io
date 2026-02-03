@@ -12,7 +12,4 @@
 
 ## [Projects](projects/README.md)
 
-## [Examples](examples/README.md)
-
 ## [Technologies](technologies/README.md)
-
